@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="9cd5d260-b178-4b40-a076-72ce258a3c84" name="dist" url="http://test.geaving.com/dist">
+        <fileTransfer host="120.24.13.184" port="21" rootFolder="/public" password="dfe0dfd9dff2dfe4dfdcdfecdfdbdffb" username="geaving_test">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="9c102ec5-4e4a-4f53-9431-adaa29c13a69" name="qhclient" url="http://qhclient.geaving.com">
+        <fileTransfer host="120.24.13.184" port="21" password="dfc3df9bdfcbdf92dfc0dfc2dfe5dfe9" username="qhclient">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

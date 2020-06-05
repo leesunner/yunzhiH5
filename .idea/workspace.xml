@@ -1,0 +1,1539 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/src/components/mine/myBuyRecord/all.vue" line="9" mnemonic="8" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" readonly="true" id="9d572f46-02a9-4b9e-9395-30945c18adcf" name="Default" comment="Default" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="client" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="main.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="252">
+              <caret line="241" column="36" lean-forward="true" selection-start-line="241" selection-start-column="36" selection-end-line="241" selection-end-column="36" />
+              <folding>
+                <element signature="e#0#21#0" expanded="true" />
+                <element signature="e#659#689#0" expanded="true" />
+                <element signature="e#1146#1179#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="head.vue" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/headTitle/head.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="43" column="20" lean-forward="true" selection-start-line="43" selection-start-column="20" selection-end-line="43" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="bottomTab.vue" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/bottomNav/bottomTab.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="68" column="40" lean-forward="true" selection-start-line="68" selection-start-column="40" selection-end-line="68" selection-end-column="40" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="reset.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/assets/css/reset.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1728">
+              <caret line="6" column="5" lean-forward="true" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="reset1.scss" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/assets/css/reset1.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="175" column="12" lean-forward="true" selection-start-line="175" selection-start-column="12" selection-end-line="175" selection-end-column="12" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="theme.less" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/assets/css/theme.less">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="108">
+              <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="productList.vue" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/type/productList.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-6336">
+              <caret line="7" column="51" lean-forward="true" selection-start-line="7" selection-start-column="51" selection-end-line="7" selection-end-column="51" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="login.vue" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/pages/login/login.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1872">
+              <caret line="119" column="21" lean-forward="true" selection-start-line="119" selection-start-column="21" selection-end-line="119" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".babelrc" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.babelrc">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-108">
+              <caret line="6" column="18" lean-forward="true" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="72">
+              <caret line="8" column="41" lean-forward="false" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="41" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+        <option value="Vue File" />
+        <option value="XSLT Stylesheet" />
+        <option value="Less File" />
+        <option value="JavaScript File" />
+        <option value="Vue Single File Component" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>timeOut</find>
+      <find>publish_type</find>
+      <find>new_goods_id</find>
+      <find>etime</find>
+      <find>timeNow</find>
+      <find>nowTime</find>
+      <find>tz</find>
+      <find>toLast</find>
+      <find>toHistoryView</find>
+      <find>history</find>
+      <find>params</find>
+      <find>guid_detail</find>
+      <find>骰子</find>
+      <find>lastCount</find>
+      <find>茶叶回收</find>
+      <find>lqdbDownx</find>
+      <find>buyedList</find>
+      <find>endTime</find>
+      <find>getProList</find>
+      <find>historyList</find>
+      <find>listData</find>
+      <find>mine</find>
+      <find>productViewCount</find>
+      <find>详情</find>
+      <find>xylucky</find>
+      <find>dbdown</find>
+      <find>88488029</find>
+      <find>88488102</find>
+      <find>userRegister</find>
+      <find>exec</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>#consult-view</replace>
+      <replace>data.consult</replace>
+      <replace>data.consult.</replace>
+      <replace>course</replace>
+      <replace>#course .box-cate</replace>
+      <replace>my-avatar-f</replace>
+      <replace>我们生活在巨婴国我们生活在</replace>
+      <replace>我们生活在巨婴国我们</replace>
+      <replace>&lt;img name=&quot;courseImg&quot; src=&quot;/static/images/course-default.png&quot;/&gt;</replace>
+      <replace>user</replace>
+      <replace>user``</replace>
+      <replace>#comment-list</replace>
+      <replace>new Date().valueOf</replace>
+      <replace>div</replace>
+      <replace>data.user</replace>
+      <replace>data.</replace>
+      <replace>my-course</replace>
+      <replace>api/order_consult</replace>
+      <replace>/api/order_course</replace>
+      <replace>&quot;static</replace>
+      <replace>&quot;/static</replace>
+      <replace>=&quot;static/</replace>
+      <replace>url(&quot;../../static/images/</replace>
+      <replace>url(&quot;../../../static/images/</replace>
+      <replace>background: url('static</replace>
+      <replace>src=&quot;static</replace>
+      <replace>post('/api</replace>
+      <replace>post('</replace>
+      <replace>2179002446</replace>
+      <replace>3073810793</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/src/components/part</dir>
+      <dir>$PROJECT_DIR$/static</dir>
+      <dir>$PROJECT_DIR$/src/components</dir>
+      <dir>D:\project\newActive</dir>
+      <dir>D:\国内project\newActive</dir>
+      <dir>D:\国内project\newActive\src\components</dir>
+      <dir>D:\国内project\国内app\build</dir>
+      <dir>D:\国内project\国内app\src</dir>
+      <dir>D:\国内project\国内app\static</dir>
+      <dir>D:\国内project\国内app\src\components\pages</dir>
+      <dir>D:\国内project\国内app\src\components</dir>
+      <dir>D:\国内project\国内app\src\pages</dir>
+      <dir>E:\正式端项目\app正式</dir>
+      <dir>E:\正式端项目\app正式\src</dir>
+      <dir>D:\国内project\H5webapp项目国内\src\components\pages</dir>
+      <dir>D:\国内project\H5webapp项目国内\src</dir>
+      <dir>D:\国内project\H5webapp项目国内\src\components</dir>
+      <dir>D:\国内project\H5webapp项目国内\src\pages</dir>
+      <dir>E:\云智项目\H5webapp项目国内\H5webapp项目国内\src</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/pages/type/type.vue" />
+        <option value="$PROJECT_DIR$/src/components/home/goodsList.vue" />
+        <option value="$PROJECT_DIR$/src/pages/buyPay/buyPay.vue" />
+        <option value="$PROJECT_DIR$/src/components/mine/myBuyRecord/timing.vue" />
+        <option value="$PROJECT_DIR$/src/components/mine/myBuyRecord/all.vue" />
+        <option value="$PROJECT_DIR$/src/components/pages/chartView.vue" />
+        <option value="$PROJECT_DIR$/src/components/pages/chartDetail.vue" />
+        <option value="$PROJECT_DIR$/src/pages/mine/mineInfo/myGrade/moreGrade.vue" />
+        <option value="$PROJECT_DIR$/src/components/pages/identify.vue" />
+        <option value="$PROJECT_DIR$/src/components/mine/showOrder/showed.vue" />
+        <option value="$PROJECT_DIR$/src/components/pages/lqdbDownx.vue" />
+        <option value="$PROJECT_DIR$/src/assets/main.css" />
+        <option value="$PROJECT_DIR$/src/assets/util.js" />
+        <option value="$PROJECT_DIR$/static/js/timeFormat.js" />
+        <option value="$PROJECT_DIR$/src/components/pages/PKking.vue" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/src/components/pages/free-order.vue" />
+        <option value="$PROJECT_DIR$/src/components/pages/integral.vue" />
+        <option value="$PROJECT_DIR$/src/components/mine/certification/certInfo.vue" />
+        <option value="$PROJECT_DIR$/src/components/pages/shake.vue" />
+        <option value="$PROJECT_DIR$/src/components/mine/certification/certification.vue" />
+        <option value="$PROJECT_DIR$/src/components/pages/crackdown.vue" />
+        <option value="$PROJECT_DIR$/src/components/pages/sendba.vue" />
+        <option value="$PROJECT_DIR$/src/components/popupView/winnerDailog.vue" />
+        <option value="$PROJECT_DIR$/src/components/pages/sevensign.vue" />
+        <option value="$PROJECT_DIR$/src/components/pages/awPresentation.vue" />
+        <option value="$PROJECT_DIR$/src/components/mine/luckyRecord/luckyItem.vue" />
+        <option value="$PROJECT_DIR$/src/pages/mine/luckyRecord/realObject.vue" />
+        <option value="$PROJECT_DIR$/src/components/pages/luckyvip.vue" />
+        <option value="$PROJECT_DIR$/src/components/popupView/redeemNow.vue" />
+        <option value="$PROJECT_DIR$/src/components/pages/threeDay.vue" />
+        <option value="$PROJECT_DIR$/src/pages/home/home.vue" />
+        <option value="$PROJECT_DIR$/src/pages/mine/teaPackage/teaPackage.vue" />
+        <option value="$PROJECT_DIR$/src/pages/mine/rechargList/rechargList.vue" />
+        <option value="$PROJECT_DIR$/src/components/pages/threeDays.vue" />
+        <option value="$PROJECT_DIR$/src/components/public/shareView.vue" />
+        <option value="$PROJECT_DIR$/src/components/headTitle/head.vue" />
+        <option value="$PROJECT_DIR$/src/pages/exchanged/exChanged.vue" />
+        <option value="$PROJECT_DIR$/src/components/pages/zerobuyweek.vue" />
+        <option value="$PROJECT_DIR$/src/components/pages/teaturntable.vue" />
+        <option value="$PROJECT_DIR$/src/components/pages/sixShake.vue" />
+        <option value="$PROJECT_DIR$/src/router/index.js" />
+        <option value="$PROJECT_DIR$/src/pages/login/login.vue" />
+        <option value="$PROJECT_DIR$/src/components/register/registerAndCode.vue" />
+        <option value="$PROJECT_DIR$/src/pages/mine/mine.vue" />
+        <option value="$PROJECT_DIR$/src/components/mine/loginStatus/unLogin.vue" />
+        <option value="$PROJECT_DIR$/src/components/pages/xylucky.vue" />
+        <option value="$PROJECT_DIR$/src/components/pages/dbdown.vue" />
+        <option value="$PROJECT_DIR$/src/components/pages/product-view.vue" />
+        <option value="$PROJECT_DIR$/config/index.js" />
+        <option value="$PROJECT_DIR$/src/main.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
+    <package-json value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PackageJsonUpdateNotifier">
+    <dismissed value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="59" />
+    <option name="y" value="6" />
+    <option name="width" value="1751" />
+    <option name="height" value="1030" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+          <State>
+            <id>Potentially confusing code constructsJavaScript</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>CoffeeScript</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="H5webapp项目国内" type="b2602c69:ProjectViewProjectNode" />
+              <item name="H5webapp项目国内" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="H5webapp项目国内" type="b2602c69:ProjectViewProjectNode" />
+              <item name="H5webapp项目国内" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="H5webapp项目国内" type="b2602c69:ProjectViewProjectNode" />
+              <item name="H5webapp项目国内" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="H5webapp项目国内" type="b2602c69:ProjectViewProjectNode" />
+              <item name="H5webapp项目国内" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="router" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="H5webapp项目国内" type="b2602c69:ProjectViewProjectNode" />
+              <item name="H5webapp项目国内" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://D:/国内project/国内app/src/components/public/hisUserInfo/hisGoodItem.vue&#10;wei&#9;ACTION&#9;EditorDeleteToWordEndInDifferentHumpsMode&#10;arti&#9;FILE&#9;file:///Users/zhangxiongwei/Dev/geaving/client/src/components/article-view.vue&#10;useri&#9;null&#9;null&#10;articl&#9;FILE&#9;file:///Users/zhangxiongwei/Dev/geaving/client/src/components/article-view.vue&#10;cour&#9;FILE&#9;file:///Users/zhangxiongwei/Dev/geaving/client/src/components/course-list.vue&#10;my&#9;FILE&#9;file:///Users/zhangxiongwei/Dev/geaving/client/src/components/my-course.vue&#10;order&#9;FILE&#9;file:///Users/zhangxiongwei/Dev/geaving/client/src/components/course-order.vue&#10;cours&#9;FILE&#9;file:///Users/zhangxiongwei/Dev/geaving/client/src/components/course-view.vue&#10;consult-v&#9;FILE&#9;file:///Users/zhangxiongwei/Dev/geaving/client/src/components/consult-view.vue&#10;myco&#9;FILE&#9;file:///Users/zhangxiongwei/Dev/geaving/client/src/components/my-consult.vue&#10;consult&#9;FILE&#9;file:///Users/zhangxiongwei/Dev/geaving/client/src/components/consult-order.vue&#10;settim&#9;null&#9;null&#10;for&#9;FILE&#9;file:///Users/zhangxiongwei/Dev/geaving/client/src/components/forget.vue&#10;regi&#9;FILE&#9;file:///Users/zhangxiongwei/Dev/geaving/client/src/components/register.vue&#10;my.v&#9;FILE&#9;file:///Users/zhangxiongwei/Dev/geaving/client/src/components/my.vue" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="editor.config.accepted" value="true" />
+    <property name="editor.config.ad.shown" value="true" />
+    <property name="js-jscs-nodeInterpreter" value="D:\Vue\node.exe" />
+    <property name="last_opened_file_path" value="E:/国数项目/国数后台管理系统/baiwen-frontent" />
+    <property name="list.type.of.created.stylesheet" value="Less" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="two.files.diff.last.used.folder" value="$PROJECT_DIR$/dist" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\国内project\国内app\src\components" />
+      <recent name="D:\国内project\国内app\src\pages" />
+      <recent name="D:\国内project\国内app\src\components\popupView" />
+      <recent name="D:\国内project\国内app\src\assets" />
+      <recent name="D:\国内project\国内app\src\components\mine\certification" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\国内project\H5webapp项目国内\src\assets\img" />
+      <recent name="D:\国内project\H5webapp项目国内\src\components\pages" />
+      <recent name="D:\国内project\H5app\static\image" />
+      <recent name="D:\国内project\H5app\src\assets\img" />
+      <recent name="D:\国内project\国内app\src\assets\img" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter />
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration" cleanupOnStartRun="true">
+    <configuration useDefault="false">C:\Users\Administrator\AppData\Roaming\Subversion</configuration>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9d572f46-02a9-4b9e-9395-30945c18adcf" name="Default" comment="" />
+      <created>1499508265854</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1499508265854</updated>
+      <workItem from="1499508267015" duration="16799000" />
+      <workItem from="1499584419165" duration="11947000" />
+      <workItem from="1499629096354" duration="7335000" />
+      <workItem from="1499680314571" duration="18856000" />
+      <workItem from="1499763353352" duration="17856000" />
+      <workItem from="1499821281526" duration="32330000" />
+      <workItem from="1499909462975" duration="32228000" />
+      <workItem from="1499996806325" duration="28322000" />
+      <workItem from="1500103356890" duration="26643000" />
+      <workItem from="1500175924368" duration="18215000" />
+      <workItem from="1500208159498" duration="6182000" />
+      <workItem from="1500257288112" duration="24628000" />
+      <workItem from="1500350257365" duration="54003000" />
+      <workItem from="1500449383799" duration="28531000" />
+      <workItem from="1500531171485" duration="14199000" />
+      <workItem from="1500559052226" duration="16016000" />
+      <workItem from="1500619580691" duration="4246000" />
+      <workItem from="1500634690733" duration="13786000" />
+      <workItem from="1500710784900" duration="258000" />
+      <workItem from="1500822901123" duration="30000" />
+      <workItem from="1500823137935" duration="28000" />
+      <workItem from="1500917034005" duration="234000" />
+      <workItem from="1500948733248" duration="438000" />
+      <workItem from="1501053347035" duration="1229000" />
+      <workItem from="1501068680687" duration="618000" />
+      <workItem from="1501179364688" duration="600000" />
+      <workItem from="1501211394889" duration="611000" />
+      <workItem from="1501229724753" duration="917000" />
+      <workItem from="1501320258842" duration="61000" />
+      <workItem from="1501416066313" duration="1681000" />
+      <workItem from="1501485972607" duration="7120000" />
+      <workItem from="1501584114904" duration="781000" />
+      <workItem from="1501636116578" duration="7874000" />
+      <workItem from="1501687581100" duration="2378000" />
+      <workItem from="1501730291820" duration="2134000" />
+      <workItem from="1501861798171" duration="597000" />
+      <workItem from="1502070125174" duration="3210000" />
+      <workItem from="1502151563608" duration="2600000" />
+      <workItem from="1502239658212" duration="5626000" />
+      <workItem from="1502421403745" duration="5165000" />
+      <workItem from="1502698960525" duration="599000" />
+      <workItem from="1502755353755" duration="1213000" />
+      <workItem from="1502805041532" duration="599000" />
+      <workItem from="1502891630819" duration="599000" />
+      <workItem from="1502943398773" duration="598000" />
+      <workItem from="1503048719413" duration="595000" />
+      <workItem from="1503062323750" duration="598000" />
+      <workItem from="1503103646353" duration="631000" />
+      <workItem from="1503158978314" duration="598000" />
+      <workItem from="1503219323061" duration="10000" />
+      <workItem from="1505873083863" duration="26231000" />
+      <workItem from="1505957972732" duration="3612000" />
+      <workItem from="1506050192442" duration="2017000" />
+      <workItem from="1506148051734" duration="598000" />
+      <workItem from="1506219391816" duration="248000" />
+      <workItem from="1506235940389" duration="598000" />
+      <workItem from="1506386154262" duration="2633000" />
+      <workItem from="1506392511356" duration="676000" />
+      <workItem from="1506393427151" duration="594000" />
+      <workItem from="1506394053826" duration="1195000" />
+      <workItem from="1506421126482" duration="593000" />
+      <workItem from="1506489122792" duration="598000" />
+      <workItem from="1506516504150" duration="598000" />
+      <workItem from="1506564009322" duration="3934000" />
+      <workItem from="1506649844663" duration="1152000" />
+      <workItem from="1506876267404" duration="421000" />
+      <workItem from="1506928033120" duration="952000" />
+      <workItem from="1506953825443" duration="2692000" />
+      <workItem from="1507008466746" duration="478000" />
+      <workItem from="1507211844714" duration="445000" />
+      <workItem from="1507901506844" duration="843000" />
+      <workItem from="1507913700479" duration="53000" />
+      <workItem from="1509723747737" duration="1582000" />
+      <workItem from="1509768534482" duration="5000" />
+      <workItem from="1510408222564" duration="4544000" />
+      <workItem from="1545979691901" duration="1674000" />
+      <workItem from="1545983342702" duration="6737000" />
+      <workItem from="1545990846733" duration="87000" />
+      <workItem from="1546062664700" duration="16316000" />
+      <workItem from="1546391150812" duration="10926000" />
+      <workItem from="1546494502696" duration="18413000" />
+      <workItem from="1546579144676" duration="1021000" />
+      <workItem from="1546580895571" duration="3714000" />
+      <workItem from="1546595464589" duration="1992000" />
+      <workItem from="1546613317816" duration="509000" />
+      <workItem from="1546651092178" duration="6587000" />
+      <workItem from="1546659529711" duration="4453000" />
+      <workItem from="1546823288653" duration="7558000" />
+      <workItem from="1546832185506" duration="7558000" />
+      <workItem from="1546856050986" duration="10295000" />
+      <workItem from="1546909870371" duration="23519000" />
+      <workItem from="1546996118424" duration="30966000" />
+      <workItem from="1547083116092" duration="1404000" />
+      <workItem from="1547085512130" duration="26740000" />
+      <workItem from="1547169519339" duration="25216000" />
+      <workItem from="1547428006627" duration="33869000" />
+      <workItem from="1547514356445" duration="5087000" />
+      <workItem from="1547519470818" duration="1921000" />
+      <workItem from="1547521670887" duration="667000" />
+      <workItem from="1547522384191" duration="22911000" />
+      <workItem from="1547601211880" duration="33314000" />
+      <workItem from="1547687358621" duration="32549000" />
+      <workItem from="1547773690891" duration="31895000" />
+      <workItem from="1547860923602" duration="24451000" />
+      <workItem from="1548032833389" duration="29122000" />
+      <workItem from="1548119984171" duration="28743000" />
+      <workItem from="1548206044158" duration="30560000" />
+      <workItem from="1548292102598" duration="28113000" />
+      <workItem from="1548378486477" duration="3221000" />
+      <workItem from="1548381763331" duration="9912000" />
+      <workItem from="1548638384004" duration="5119000" />
+      <workItem from="1548660997954" duration="1312000" />
+      <workItem from="1548663335925" duration="1905000" />
+      <workItem from="1548724409189" duration="475000" />
+      <workItem from="1548748966019" duration="109000" />
+      <workItem from="1549848611814" duration="17103000" />
+      <workItem from="1549872703599" duration="5620000" />
+      <workItem from="1549933632825" duration="17611000" />
+      <workItem from="1550020235539" duration="28498000" />
+      <workItem from="1550107323532" duration="1650000" />
+      <workItem from="1550109465966" duration="1930000" />
+      <workItem from="1550113065602" duration="6954000" />
+      <workItem from="1550123958001" duration="259000" />
+      <workItem from="1550124599145" duration="126000" />
+      <workItem from="1550125124242" duration="106000" />
+      <workItem from="1550130197524" duration="3852000" />
+      <workItem from="1550220420041" duration="2413000" />
+      <workItem from="1550226339711" duration="179000" />
+      <workItem from="1550539756604" duration="2162000" />
+      <workItem from="1550542858432" duration="488000" />
+      <workItem from="1550544778277" duration="352000" />
+      <workItem from="1550562756797" duration="188000" />
+      <workItem from="1551073534912" duration="18825000" />
+      <workItem from="1551143666838" duration="2742000" />
+      <workItem from="1551147097552" duration="91000" />
+      <workItem from="1551147294914" duration="642000" />
+      <workItem from="1551148479567" duration="340000" />
+      <workItem from="1551149221538" duration="2086000" />
+      <workItem from="1551171946685" duration="16699000" />
+      <workItem from="1551233534212" duration="454000" />
+      <workItem from="1551234290738" duration="8156000" />
+      <workItem from="1551253782471" duration="16637000" />
+      <workItem from="1551316893219" duration="18110000" />
+      <workItem from="1551338900737" duration="20077000" />
+      <workItem from="1551403358903" duration="31308000" />
+      <workItem from="1551490152558" duration="14185000" />
+      <workItem from="1551509361340" duration="1291000" />
+      <workItem from="1551510865079" duration="11144000" />
+      <workItem from="1551662516342" duration="18286000" />
+      <workItem from="1551695409249" duration="1337000" />
+      <workItem from="1551748638592" duration="399000" />
+      <workItem from="1551749333247" duration="16514000" />
+      <workItem from="1551784113519" duration="208000" />
+      <workItem from="1551784514531" duration="5141000" />
+      <workItem from="1551834595341" duration="28954000" />
+      <workItem from="1551869486000" duration="2997000" />
+      <workItem from="1551921811983" duration="383000" />
+      <workItem from="1551922403969" duration="1088000" />
+      <workItem from="1551925118170" duration="110000" />
+      <workItem from="1551925592771" duration="582000" />
+      <workItem from="1551926796134" duration="3090000" />
+      <workItem from="1551930068718" duration="16203000" />
+      <workItem from="1553480217686" duration="462000" />
+      <workItem from="1553484312289" duration="4346000" />
+      <workItem from="1553495688350" duration="4303000" />
+      <workItem from="1553504040814" duration="3270000" />
+      <workItem from="1553561914510" duration="1074000" />
+      <workItem from="1553567264508" duration="22960000" />
+      <workItem from="1553648495495" duration="1681000" />
+      <workItem from="1553659671144" duration="29000" />
+      <workItem from="1554952994146" duration="18000" />
+      <workItem from="1554953028603" duration="4378000" />
+      <workItem from="1554960919495" duration="7567000" />
+      <workItem from="1555377431524" duration="13009000" />
+      <workItem from="1555409806833" duration="3833000" />
+      <workItem from="1555463240870" duration="7467000" />
+      <workItem from="1555473385627" duration="8704000" />
+      <workItem from="1555500826525" duration="2640000" />
+      <workItem from="1555575686778" duration="2591000" />
+      <workItem from="1555636178522" duration="184000" />
+      <workItem from="1555641210229" duration="6221000" />
+      <workItem from="1555734118821" duration="5982000" />
+      <workItem from="1555901559150" duration="963000" />
+      <workItem from="1555919177683" duration="11137000" />
+      <workItem from="1555981996446" duration="3083000" />
+      <workItem from="1555991225824" duration="717000" />
+      <workItem from="1555998467456" duration="354000" />
+      <workItem from="1556002442717" duration="1797000" />
+      <workItem from="1556068534074" duration="5798000" />
+      <workItem from="1556076727987" duration="975000" />
+      <workItem from="1556181350991" duration="2813000" />
+      <workItem from="1556327593206" duration="10338000" />
+      <workItem from="1556417499013" duration="4118000" />
+      <workItem from="1556519289214" duration="3907000" />
+      <workItem from="1556586899311" duration="19203000" />
+      <workItem from="1557028691039" duration="18857000" />
+      <workItem from="1557105337675" duration="25822000" />
+      <workItem from="1557191852640" duration="2632000" />
+      <workItem from="1557200939924" duration="1240000" />
+      <workItem from="1557210412316" duration="4775000" />
+      <workItem from="1557277857010" duration="1025000" />
+      <workItem from="1557279093272" duration="4994000" />
+      <workItem from="1557298490026" duration="4407000" />
+      <workItem from="1557305122702" duration="1890000" />
+      <workItem from="1557365878661" duration="13921000" />
+      <workItem from="1557451046595" duration="11053000" />
+      <workItem from="1557552538021" duration="943000" />
+      <workItem from="1557716658404" duration="768000" />
+      <workItem from="1557718809600" duration="6986000" />
+      <workItem from="1557800210218" duration="1118000" />
+      <workItem from="1557813636903" duration="1191000" />
+      <workItem from="1557883708601" duration="12070000" />
+      <workItem from="1557910721246" duration="2885000" />
+      <workItem from="1557914079864" duration="5559000" />
+      <workItem from="1557969110582" duration="2123000" />
+      <workItem from="1557974075556" duration="78000" />
+      <workItem from="1557986550922" duration="575000" />
+      <workItem from="1557987848129" duration="2144000" />
+      <workItem from="1558087918753" duration="6284000" />
+      <workItem from="1558142229821" duration="9399000" />
+      <workItem from="1558401963063" duration="14866000" />
+      <workItem from="1558488212837" duration="4154000" />
+      <workItem from="1558508993503" duration="2765000" />
+      <workItem from="1558574274944" duration="2532000" />
+      <workItem from="1558579137748" duration="2378000" />
+      <workItem from="1558592256112" duration="9569000" />
+      <workItem from="1558610358405" duration="764000" />
+      <workItem from="1558660050920" duration="5730000" />
+      <workItem from="1558684645470" duration="2123000" />
+      <workItem from="1558692653241" duration="1658000" />
+      <workItem from="1559367525625" duration="171000" />
+      <workItem from="1559643949990" duration="235000" />
+      <workItem from="1559784102623" duration="79000" />
+      <workItem from="1560246662740" duration="195000" />
+      <workItem from="1560248865641" duration="548000" />
+      <workItem from="1575552280731" duration="114000" />
+      <workItem from="1587103295235" duration="529000" />
+      <workItem from="1587453842836" duration="4845000" />
+      <workItem from="1587604937663" duration="44000" />
+      <workItem from="1591356877401" duration="422000" />
+    </task>
+    <task id="LOCAL-00005" summary="Default">
+      <created>1512795039115</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1512795039115</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Default">
+      <created>1512804623102</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1512804623102</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Default">
+      <created>1513048485897</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1513048485897</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Default">
+      <created>1513310352426</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1513310352426</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Default">
+      <created>1513869485258</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1513869485258</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Default">
+      <created>1513930594103</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1513930594103</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Default">
+      <created>1513934124118</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1513934124118</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Default">
+      <created>1513998428123</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1513998428123</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Default">
+      <created>1514034441606</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1514034441606</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Default">
+      <created>1514128055138</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1514128055138</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Default">
+      <created>1514198194243</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1514198194243</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Default">
+      <created>1514605222242</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1514605222242</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Default">
+      <created>1514614199304</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1514614199304</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Default">
+      <created>1514874412180</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1514874412180</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Default">
+      <created>1514884622103</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1514884622103</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Default">
+      <created>1514887468118</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1514887468118</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Default">
+      <created>1515078779139</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1515078779139</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Default">
+      <created>1515148975156</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1515148975156</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Default">
+      <created>1515208154193</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1515208154193</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Default">
+      <created>1515606781254</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1515606781254</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Default">
+      <created>1515608833212</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1515608833212</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Default">
+      <created>1515609361112</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1515609361112</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Default">
+      <created>1515635688133</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1515635688133</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Default">
+      <created>1515684757102</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1515684757102</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Default">
+      <created>1515686363103</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1515686363103</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Default">
+      <created>1515686987102</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1515686987102</updated>
+    </task>
+    <task id="LOCAL-00031" summary="Default">
+      <created>1515721302134</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1515721302134</updated>
+    </task>
+    <task id="LOCAL-00032" summary="Default">
+      <created>1515753977103</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1515753977103</updated>
+    </task>
+    <task id="LOCAL-00033" summary="Default">
+      <created>1515836796350</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1515836796350</updated>
+    </task>
+    <task id="LOCAL-00034" summary="Default">
+      <created>1516004397122</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1516004397122</updated>
+    </task>
+    <task id="LOCAL-00035" summary="Default">
+      <created>1516004438107</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1516004438107</updated>
+    </task>
+    <task id="LOCAL-00036" summary="Default">
+      <created>1516004466107</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1516004466107</updated>
+    </task>
+    <task id="LOCAL-00037" summary="Default">
+      <created>1516022278149</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1516022278149</updated>
+    </task>
+    <task id="LOCAL-00038" summary="Default">
+      <created>1516256785237</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1516256785237</updated>
+    </task>
+    <task id="LOCAL-00039" summary="Default">
+      <created>1521168341102</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1521168341102</updated>
+    </task>
+    <task id="LOCAL-00040" summary="Default">
+      <created>1521168367102</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1521168367102</updated>
+    </task>
+    <task id="LOCAL-00041" summary="Default">
+      <created>1521173202102</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1521173202102</updated>
+    </task>
+    <task id="LOCAL-00042" summary="Default">
+      <created>1521179299103</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1521179299103</updated>
+    </task>
+    <task id="LOCAL-00043" summary="Default">
+      <created>1521427555240</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1521427555240</updated>
+    </task>
+    <task id="LOCAL-00044" summary="Default">
+      <created>1521428639107</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1521428639107</updated>
+    </task>
+    <task id="LOCAL-00045" summary="Default">
+      <created>1521429454108</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1521429454108</updated>
+    </task>
+    <task id="LOCAL-00046" summary="Default">
+      <created>1521430666103</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1521430666103</updated>
+    </task>
+    <task id="LOCAL-00047" summary="Default">
+      <created>1521446672103</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1521446672103</updated>
+    </task>
+    <task id="LOCAL-00048" summary="Default">
+      <created>1521508466180</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1521508466180</updated>
+    </task>
+    <task id="LOCAL-00049" summary="Default">
+      <created>1521621332290</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1521621332290</updated>
+    </task>
+    <task id="LOCAL-00050" summary="Default">
+      <created>1521906261171</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1521906261173</updated>
+    </task>
+    <task id="LOCAL-00051" summary="Default">
+      <created>1522213301320</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1522213301336</updated>
+    </task>
+    <task id="LOCAL-00052" summary="Default">
+      <created>1522214670110</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1522214670110</updated>
+    </task>
+    <task id="LOCAL-00053" summary="Default">
+      <created>1525415406149</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1525415406149</updated>
+    </task>
+    <option name="localTasksCounter" value="54" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1720536000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="59" y="6" width="1751" height="1030" extended-state="0" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29752067" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2498618" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20838471" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Default" />
+    <option name="LAST_COMMIT_MESSAGE" value="Default" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/dist/static/js/0.1f9109055f4c52d29179.js</url>
+          <line>16</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/components/bottomNav/bottomTab.vue</url>
+          <line>68</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/components/pages/free-order.vue</url>
+          <line>155</line>
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/pages/mine/luckyRecord/realObject.vue</url>
+          <line>64</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="2" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <PATH>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="client" />
+        <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="client" />
+        <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+      </PATH_ELEMENT>
+    </PATH>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.es2015.symbol.wellknown.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="232" column="4" lean-forward="false" selection-start-line="232" selection-start-column="4" selection-end-line="232" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/home/timeFormat.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="19" lean-forward="false" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/pages/shake.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="323" column="2" lean-forward="false" selection-start-line="323" selection-start-column="2" selection-end-line="323" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/img/loginlqdb.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/home/home.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9834">
+          <caret line="452" column="27" lean-forward="false" selection-start-line="452" selection-start-column="27" selection-end-line="452" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/img/lqpglogo.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/mine/mine.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="26" column="59" lean-forward="false" selection-start-line="26" selection-start-column="59" selection-end-line="26" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/pages/xylucky.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1518">
+          <caret line="69" column="25" lean-forward="false" selection-start-line="69" selection-start-column="25" selection-end-line="69" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/pages/sendba.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="27" column="37" lean-forward="true" selection-start-line="27" selection-start-column="37" selection-end-line="27" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/pages/dbbhelp.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/pages/yydown.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="15" column="15" lean-forward="true" selection-start-line="15" selection-start-column="15" selection-end-line="15" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/pages/lqdbDownx.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="68" column="49" lean-forward="true" selection-start-line="68" selection-start-column="49" selection-end-line="68" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/pages/lqdbDown.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/pages/dbdown.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" column="37" lean-forward="false" selection-start-line="15" selection-start-column="37" selection-end-line="15" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/pages/sixShake.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="27" column="20" lean-forward="true" selection-start-line="27" selection-start-column="20" selection-end-line="27" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/mine/loginStatus/unLogin.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/pages/product-view.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="13984">
+          <caret line="612" column="11" lean-forward="false" selection-start-line="612" selection-start-column="11" selection-end-line="612" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/register/register.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="14" column="17" lean-forward="false" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/mine/luckyRecord/all.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/mine/luckyRecord/luckyItem.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="12" column="32" lean-forward="false" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/js/timeFormat.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="362">
+          <caret line="66" column="10" lean-forward="true" selection-start-line="66" selection-start-column="10" selection-end-line="66" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/register/registerSuccess.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1512">
+          <caret line="42" column="25" lean-forward="false" selection-start-line="42" selection-start-column="25" selection-end-line="42" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.postcssrc.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/webpack.base.conf.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="36" column="23" lean-forward="false" selection-start-line="36" selection-start-column="23" selection-end-line="36" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/utils.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="55" column="27" lean-forward="false" selection-start-line="55" selection-start-column="27" selection-end-line="55" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/prod.env.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/vue-loader.conf.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/check-versions.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="21" column="30" lean-forward="true" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/webpack.prod.conf.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="113" column="0" lean-forward="true" selection-start-line="113" selection-start-column="0" selection-end-line="113" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/dev-server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/webpack.dev.conf.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="9" column="48" lean-forward="false" selection-start-line="9" selection-start-column="48" selection-end-line="9" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="471">
+          <caret line="43" column="50" lean-forward="false" selection-start-line="43" selection-start-column="50" selection-end-line="43" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/build.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="381">
+          <caret line="35" column="0" lean-forward="false" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/dev.env.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/router/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5724">
+          <caret line="9" column="27" lean-forward="true" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/mine/address/addAddress.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="9" column="41" lean-forward="true" selection-start-line="9" selection-start-column="41" selection-end-line="9" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/mine/ticket/ticket.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="9" column="37" lean-forward="true" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/public/bullet.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="8" column="54" lean-forward="false" selection-start-line="8" selection-start-column="54" selection-end-line="8" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/public/shareView.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5112">
+          <caret line="142" column="42" lean-forward="false" selection-start-line="142" selection-start-column="42" selection-end-line="142" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/register/registerAndCode.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3168">
+          <caret line="154" column="28" lean-forward="true" selection-start-line="154" selection-start-column="28" selection-end-line="154" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/timing/timimg.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2088">
+          <caret line="38" column="16" lean-forward="false" selection-start-line="38" selection-start-column="16" selection-end-line="38" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/type/productList.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-6336">
+          <caret line="7" column="51" lean-forward="true" selection-start-line="7" selection-start-column="51" selection-end-line="7" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/login/login.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1872">
+          <caret line="119" column="21" lean-forward="true" selection-start-line="119" selection-start-column="21" selection-end-line="119" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.babelrc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-108">
+          <caret line="6" column="18" lean-forward="true" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="8" column="41" lean-forward="false" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="241" column="36" lean-forward="true" selection-start-line="241" selection-start-column="36" selection-end-line="241" selection-end-column="36" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+            <element signature="e#659#689#0" expanded="true" />
+            <element signature="e#1146#1179#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/headTitle/head.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="43" column="20" lean-forward="true" selection-start-line="43" selection-start-column="20" selection-end-line="43" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/bottomNav/bottomTab.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="68" column="40" lean-forward="true" selection-start-line="68" selection-start-column="40" selection-end-line="68" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/css/reset.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1728">
+          <caret line="6" column="5" lean-forward="true" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/css/theme.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/css/reset1.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="175" column="12" lean-forward="true" selection-start-line="175" selection-start-column="12" selection-end-line="175" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
